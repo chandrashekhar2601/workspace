@@ -1,5 +1,5 @@
 <?php
-// Free html5 templates : https://www.zerotheme.com
+// Free html5 templates : http://chetanservices.com
 
 $text = "<span style='color:red; font-size: 35px; line-height: 40px; magin: 10px;'>Error! Please try again.</span>";
 
@@ -11,10 +11,10 @@ if(isset($_POST['submitcontact']))
 	$subject=$_POST['subject'];
 
 	$to = "youremail@gmail.com";
-	$subject = "Zerotheme - Testing Contact Form";
+	$subject = "Chetanservices - Testing Contact Form";
 	$message = " Name: " . $name ."\r\n Email: " . $email . "\r\n Message:\r\n" . $message;
 	 
-	$from = "Zerotheme dot com";
+	$from = "Chetanservices dot com";
 	$headers = "From:" . $from . "\r\n";
 	$headers .= "Content-type: text/plain; charset=UTF-8" . "\r\n"; 
 	 
@@ -36,8 +36,8 @@ if(isset($_POST['submitcontact']))
   ================================================== -->
 	<meta charset="utf-8">
 	<title>zPainting</title>
-	<meta name="description" content="Free Responsive Html5 Css3 Templates | Zerotheme.com">
-	<meta name="author" content="https://www.zerotheme.com">
+	<meta name="description" content="Free Responsive Html5 Css3 Templates | Chetanservices.com">
+	<meta name="author" content="http://chetanservices.com">
 	
     <!-- Mobile Specific Metas
 	================================================== -->
@@ -223,7 +223,7 @@ if(isset($_POST['submitcontact']))
 						<a href="#"><i class="fa fa-youtube"></i></a>
 					</div>
 					<div class="copyright">
-						Copyright @ - Designed by <a href="https://www.zerotheme.com" title="free website templates">ZEROTHEME</a>
+						Copyright @ - Designed by <a href="http://chetanservices.com" title="free website templates">Chetanservices</a>
 					</div>
 				</div>
 			</div>
