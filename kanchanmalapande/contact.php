@@ -1,5 +1,5 @@
 <?php
-// Free html5 templates : http://chetanservices.com
+// Personal Website : http://chetanservices.com
 
 $text = "<span style='color:red; font-size: 35px; line-height: 40px; magin: 10px;'>Error! Please try again.</span>";
 
